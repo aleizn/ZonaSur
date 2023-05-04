@@ -35,7 +35,7 @@ conn.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 
     
 if (command == 'topotakus') {
 let vn = './media/otaku.mp3'
-let top = `*🌸 TOP 10 OTAKUS DEL GRUPO 🌸*
+let top = `*🌸 TOP 10 OTAKUS DEL GRUPO BAÑENSE 🌸*
     
 *_1.- ${user(a)}_*
 *_2.- ${user(b)}_*
