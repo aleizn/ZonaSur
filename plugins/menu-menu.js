@@ -26,14 +26,14 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 ╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *@clan_mafia_chilena* —◉
+║ ◉— *𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ *𝗛ola, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *Owner:* Nose quien sera pero abajo sale su numero xd
-║➤ *Numero:* wa.me/56940383433
-║➤ *Bot ofc:* wa.me/56940383433
-║➤ *Yape:* 933 348 947
+║➤ *Owner:* Aleizn-MD
+║➤ *Numero:* wa.me/51992621601
+║➤ *Bot ofc:* wa.me/51992621601
+║➤ *Yape:* 914079837
 ║➤ *Fecha:* ${date}
 ║➤ *Tiempo activo:* ${uptime}
 ║➤ *Usuarios:* ${rtotalreg}
@@ -636,10 +636,10 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '@ffxryu.18',
+title: '@Aleizn',
 body: null,
 thumbnail: img,
-sourceUrl: `https://wa.me/+51955095498`
+sourceUrl: `https://wa.me/+51992621601`
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
