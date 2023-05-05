@@ -8,7 +8,7 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['51965243137', '𝐁𝐨𝐭𝐱𝐪𝐮𝐞𝐞𝐧𝐚', true],
+  ['51917545642', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
   ['51992621601', '@𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
   ['51992621601', '@𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
   ['51992621601', '@𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
@@ -431,8 +431,8 @@ global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //*****************************
 global.wm2 = `▸ ${dia} ${fecha}\n▸ MafiaChilena`
-global.gt = 'MafiaChilena'
-global.mysticbot = 'MafiaChilena'
+global.gt = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
+global.mysticbot = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
