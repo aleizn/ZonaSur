@@ -32,9 +32,9 @@ teks += `ㅤ
 ╰───────────────•`
 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
 }
-handler.help = ['tagall <mesaje>','invocar <mesaje>']
+handler.help = ['smsm19 <mesaje>','masc19 <mesaje>']
 handler.tags = ['group']
-handler.command = /^(tagall|invocar|invocacion|todos|invocación)$/i
+handler.command = /^(smsm19|masc19)$/i
 handler.admin = true
 handler.group = true
 export default handler

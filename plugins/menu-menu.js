@@ -218,6 +218,20 @@ ${readMore}
 ┣ ඬ⃟ 💎 _${usedPrefix}infogroup_
 ┣ ඬ⃟ 💎 _${usedPrefix}resetlink_
 ┣ ඬ⃟ 💎 _${usedPrefix}link_
+┣ ඬ⃟ 💎 _${usedPrefix}fem18_
+┣ ඬ⃟ 💎 _${usedPrefix}fem19_
+┣ ඬ⃟ 💎 _${usedPrefix}fem20_
+┣ ඬ⃟ 💎 _${usedPrefix}fem21_
+┣ ඬ⃟ 💎 _${usedPrefix}fem22_
+┣ ඬ⃟ 💎 _${usedPrefix}fem23_
+┣ ඬ⃟ 💎 _${usedPrefix}fem00_
+┣ ඬ⃟ 💎 _${usedPrefix}masc18_
+┣ ඬ⃟ 💎 _${usedPrefix}masc19_
+┣ ඬ⃟ 💎 _${usedPrefix}masc20_
+┣ ඬ⃟ 💎 _${usedPrefix}masc21_
+┣ ඬ⃟ 💎 _${usedPrefix}masc22_
+┣ ඬ⃟ 💎 _${usedPrefix}masc23_
+┣ ඬ⃟ 💎 _${usedPrefix}masc00_
 ┣ ඬ⃟ 💎 _${usedPrefix}setname *<texto>*_
 ┣ ඬ⃟ 💎 _${usedPrefix}setdesc *<texto>*_
 ┣ ඬ⃟ 💎 _${usedPrefix}invocar *<texto>*_
