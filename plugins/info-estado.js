@@ -5,7 +5,7 @@ let img = await(await fetch('https://github.com/BrunoSobrino.png')).buffer()
 let _uptime = process.uptime() * 1000
 let uptime = clockString(_uptime)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭────[ *𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃* ]
+let str = `╭────[ *𝐙𝐎𝐍𝐀ㅤຊㅤ 𝐒𝐔𝐑* ]
 │
 │ *➤ ʜᴏʟᴀ ${taguser}*
 │
@@ -20,7 +20,7 @@ conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 } catch {
 let _uptime = process.uptime() * 1000
 let uptime = clockString(_uptime)    
-throw `*🤖 ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ: ${uptime} ┃ 👑 𝗕𝗬 𝗔𝗹𝗲𝗶𝘇𝗻-𝗠𝗗 ┃ 🔗 ᴄᴜᴇɴᴛᴀs ᴏғᴄ: https://www.instagram.com/ale.izn_20/*`}}
+throw `*🤖 ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ: ${uptime} ┃ 👑 𝐙𝐎𝐍𝐀ㅤຊㅤ 𝐒𝐔𝐑 ┃ 🔗 ᴄᴜᴇɴᴛᴀs ᴏғᴄ: https://www.instagram.com/ale.izn_20/*`}}
 handler.help = ['estado']
 handler.tags = ['main']
 handler.command = /^(estado|status|estate|state|stado|stats|runtime|uptime)$/i
